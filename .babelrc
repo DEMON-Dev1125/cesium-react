@@ -1,0 +1,15 @@
+{
+  "presets": [
+    ["env", {
+      "targets": {
+        "uglify": true
+      },
+      "modules": false,
+      "loose": true
+    }]
+  ],
+  "plugins": [
+    "transform-runtime",
+    "transform-object-rest-spread"
+  ]
+}
