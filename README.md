@@ -7,7 +7,7 @@ REQUIRED: Node.js >= v6
 ## Getting Started
 
 ```sh
-git clone https://github.com/rot1024/cesium-webpack-boilerplate.git
+git clone https://github.com/DEMON-Dev1125/cesium-react.git
 cd cesium-webpack-boilerplate
 npm install # or yarn
 ```
